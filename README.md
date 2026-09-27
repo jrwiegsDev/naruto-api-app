@@ -1,6 +1,10 @@
 # Naruto Character Encyclopedia
 
+> **Status: Archived (September 2026).** An early learning project from August 2025, built while I was learning React. It's no longer maintained, but the live demo still runs at **https://naruto-api-app.onrender.com**.
+
 Welcome to the Naruto Character Encyclopedia, a dynamic web application built with React that allows users to explore the vast world of Naruto characters. This application fetches data from the [Dattebayo API](https://dattebayo-api.onrender.com/) and provides a clean, responsive interface for searching, filtering, and viewing character details.
+
+![Naruto Character Encyclopedia](https://raw.githubusercontent.com/jrwiegsDev/portfolio-site/main/public/naruto-api-app.png)
 
 ## Features
 
@@ -27,7 +31,7 @@ Welcome to the Naruto Character Encyclopedia, a dynamic web application built wi
 To run this project locally:
 
 1.  Clone the repository:
-    `git clone <your-repository-url>`
+    `git clone https://github.com/jrwiegsDev/naruto-api-app.git`
 2.  Navigate to the project directory:
     `cd naruto-api-app`
 3.  Install dependencies:
